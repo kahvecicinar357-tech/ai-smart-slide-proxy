@@ -1,0 +1,6 @@
+{
+  "backends": [
+    "https://ai-smart-slide-proxy.vercel.app",
+    "https://ai-smart-slide2.kahvecicinar357.workers.dev"
+  ]
+}
