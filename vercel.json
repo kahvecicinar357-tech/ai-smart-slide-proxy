@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "https://ai-smart-slide2.kahvecicinar357.workers.dev/$1" }
+  ]
+}
